@@ -1,7 +1,7 @@
 # go-logx
 
 [![Documentation](https://godoc.org/github.com/mashiike/go-logx?status.svg)](https://godoc.org/github.com/mashiike/go-logx)
-![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/mashiike/go-flagx/main)
+![GitHub go.mod Go version (branch)](https://img.shields.io/github/go-mod/go-version/mashiike/go-logx)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/mashiike/go-logx)
 ![Github Actions test](https://github.com/mashiike/go-logx/workflows/Test/badge.svg?branch=main)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mashiike/go-logx/blob/master/LICENSE)
